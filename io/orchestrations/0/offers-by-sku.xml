@@ -1,0 +1,18 @@
+<offers sku="sku-1">
+    <offer>
+        <offerId>offer-1</offerId>
+        <price>price-1</price>
+    </offer>
+    <offer>
+        <offerId>offer-2</offerId>
+        <price>price-2</price>
+    </offer>
+    <offer>
+        <offerId>offer-3</offerId>
+        <price>price-3</price>
+    </offer>
+    <offer>
+        <offerId>offer-4</offerId>
+        <price>price-4</price>
+    </offer>
+</offers>

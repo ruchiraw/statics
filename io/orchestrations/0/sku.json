@@ -1,0 +1,22 @@
+[
+  {
+    "id": "product-1",
+    "sku": "sku-1"
+  },
+  {
+    "id": "product-2",
+    "sku": "sku-2"
+  },
+  {
+    "id": "product-3",
+    "sku": "sku-3"
+  },
+  {
+    "id": "product-4",
+    "sku": "sku-4"
+  },
+  {
+    "id": "product-5",
+    "sku": "sku-5"
+  }
+]
