@@ -1,0 +1,18 @@
+<orders sku="sku-1">
+    <order>
+        <orderId>order-1</orderId>
+        <total>total-1</total>
+    </order>
+    <order>
+        <orderId>order-2</orderId>
+        <total>total-2</total>
+    </order>
+    <order>
+        <orderId>order-3</orderId>
+        <total>total-3</total>
+    </order>
+    <order>
+        <orderId>order-4</orderId>
+        <total>total-4</total>
+    </order>
+</orders>
