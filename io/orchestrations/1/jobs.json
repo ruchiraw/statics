@@ -1,0 +1,16 @@
+[
+  {
+    "status": "UPDATED",
+    "entityClass": "Job",
+    "entity": {
+      "uuid": "8d5efc0f07b44b94a397716da3b4ee45"
+    }
+  },
+  {
+    "status": "UPDATED",
+    "entityClass": "Job",
+    "entity": {
+      "uuid": "8e22ea27bbd24f2597beefefe4f1811b"
+    }
+  }
+]
