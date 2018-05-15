@@ -1,5 +1,6 @@
 [
   {
+    "statusCode": 422,
     "status": "UPDATED",
     "entityClass": "Job",
     "entity": {
@@ -7,6 +8,7 @@
     }
   },
   {
+    "statusCode": 422,
     "status": "UPDATED",
     "entityClass": "Job",
     "entity": {
